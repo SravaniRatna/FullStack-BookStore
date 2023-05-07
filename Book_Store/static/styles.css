@@ -1,0 +1,46 @@
+/* Add some padding to the body to avoid overlapping with the fixed navbar */
+body {
+  padding-top: 70px;
+}
+
+/* Set the background color of the navbar */
+.navbar-custom {
+  background-color: #006699;
+}
+
+/* Set the font color of the navbar links */
+.navbar-custom .navbar-nav li a {
+  color: white;
+}
+
+/* Set the font color of the active navbar link */
+.navbar-custom .navbar-nav .active a {
+  color: #ffc107;
+}
+
+/* Add some padding to the jumbotron */
+.jumbotron {
+  padding: 20px;
+}
+
+/* Set the background color and text color of the jumbotron */
+.jumbotron-custom {
+  background-color: #f8f9fa;
+  color: #343a40;
+}
+
+/* Set the font color of the page headers */
+.page-header {
+  color: #006699;
+}
+
+/* Set the font color of the form labels */
+.form-label {
+  color: #006699;
+}
+
+/* Set the background color and font color of the form buttons */
+.btn-custom {
+  background-color: #006699;
+  color: white;
+}

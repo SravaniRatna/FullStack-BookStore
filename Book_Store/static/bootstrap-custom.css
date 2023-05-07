@@ -1,0 +1,12 @@
+/* Custom styles for the navbar */
+.navbar {
+  background-color: #f8f9fa;
+}
+
+.navbar-brand {
+  font-size: 24px;
+}
+
+.nav-link {
+  font-size: 18px;
+}
